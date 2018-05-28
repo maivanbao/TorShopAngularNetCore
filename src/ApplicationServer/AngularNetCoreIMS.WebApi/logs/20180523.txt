@@ -1,0 +1,224 @@
+2018-05-23 23:51:29.099 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 69
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:51:37.308 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 69
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:51:48.369 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 69
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:51:55.309 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 69
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:53:26.155 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:53:44.640 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:54:00.567 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:54:11.431 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:54:59.154 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:55:43.099 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:57:05.139 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:57:50.999 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:57:57.980 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-23 23:59:33.522 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()

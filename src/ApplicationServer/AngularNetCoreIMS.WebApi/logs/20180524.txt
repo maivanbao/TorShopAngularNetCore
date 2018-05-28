@@ -1,0 +1,214 @@
+2018-05-24 00:03:54.222 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:04:03.906 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 70
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:05:31.442 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 75
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:05:38.160 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 75
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:07:01.435 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 67
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:07:07.999 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 67
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:08:10.859 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 67
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:08:37.994 +07:00 [Fatal] Application startup exception
+System.ArgumentException: The directory name D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\node_modules\ is invalid.
+Parameter name: path
+   at System.IO.FileSystemWatcher..ctor(String path, String filter)
+   at System.IO.FileSystemWatcher..ctor(String path)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider.CreateFileWatcher(String root)
+   at Microsoft.Extensions.FileProviders.PhysicalFileProvider..ctor(String root)
+   at AngularNetCoreIMS.WebApi.Startup.Configure(IApplicationBuilder app, IHostingEnvironment env) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Startup.cs:line 65
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.AspNetCore.ApplicationInsights.HostingStartup.ApplicationInsightsLoggerStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.ApplicationInsights.AspNetCore.ApplicationInsightsStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Server.IISIntegration.IISSetupFilter.<>c__DisplayClass3_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.Internal.AutoRequestServicesStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.Internal.WebHost.BuildApplication()
+2018-05-24 00:15:32.077 +07:00 [Error] An unhandled exception has occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AngularNetCoreIMS.WebApi.Controllers.TokenAuthController.<>c__DisplayClass0_0.<Login>b__0(User u) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Controllers\TokenAuthController.cs:line 23
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at AngularNetCoreIMS.WebApi.Controllers.TokenAuthController.Login(User user) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Controllers\TokenAuthController.cs:line 23
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextResourceFilter>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
+2018-05-24 00:18:31.712 +07:00 [Error] An unhandled exception has occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at AngularNetCoreIMS.WebApi.Controllers.TokenAuthController.<>c__DisplayClass0_0.<Login>b__0(User u) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Controllers\TokenAuthController.cs:line 23
+   at System.Linq.Enumerable.TryGetFirst[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source, Func`2 predicate)
+   at AngularNetCoreIMS.WebApi.Controllers.TokenAuthController.Login(User user) in D:\Project\Angular\AngularNetCoreIMS\src\BackEnd\AngularNetCoreIMS.WebApi\Controllers\TokenAuthController.cs:line 23
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextResourceFilter>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Rethrow(ResourceExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeFilterPipelineAsync>d__17.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeAsync>d__15.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.<Invoke>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.<Invoke>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.<Invoke>d__6.MoveNext()
